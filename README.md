@@ -4,7 +4,7 @@ This project predicts disease outbreak trends using time-series forecasting on C
 
 ## Files Included
 - `app.py` → Streamlit dashboard
-- `disease_outbreak_analysis.ipynb` → model training and analysis
+- `IDS.ipynb` → model training and analysis
 - `arima_outbreak_model.pkl` → saved trained model
 - `CONVENIENT_global_confirmed_cases.csv` → dataset
 
